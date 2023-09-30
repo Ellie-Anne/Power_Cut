@@ -1,0 +1,7 @@
+The current rules (may change with play tests):
+
+The aim of the game is to collect all of the people cards or have the most people cards at the end of the game.
+Every turn you may play up to one action card and have to draw a card at the end.
+End phase is initiated when the are no more cards left to draw.
+End phase means that you must play an action card if you can on your turn.
+The game finishes when there are no more action cards left to play or when someone gets all of the people cards.
